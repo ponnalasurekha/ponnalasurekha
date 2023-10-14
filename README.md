@@ -1,9 +1,24 @@
+![logo](https://github.com/ponnalasurekha/ponnalasurekha/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ponnala Surekha</h1>
 <h3 align="center">I am a passionate about Java Full-Stack Development!</h3>
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<pre>👩‍💻 Software Developer | Java | J2EE | Web | Fresher in IT 
+🌱 | Passionate about coding and learning.
+🌐 | Connect with me to explore the world of development! 
+🚀 #Java #WebDevelopment #CodingNewbie
+</pre>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ponnalasurekha&label=Profile%20views&color=0e75b6&style=flat" alt="ponnalasurekha" /> </p>
 
+- 🎓 Recent graduate with a degree in Computer Science and Information Technology
+  
 - 🌱 I’m currently learning **Springboot,J2EE,JavaScript**
+  
+- 📚 Continuously improving my skills in Java and J2EE to become a proficient developer
+  
+- 🌟 Ready to take on new challenges and grow in the field of IT
+  
+- 📖 Lifelong learner, always seeking knowledge and innovation in technology
 
 - 💬 Ask me about **my skills**
 
